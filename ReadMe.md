@@ -1,4 +1,4 @@
-# 股票实时查询系统
+# 股票实时查询系统（家庭作业）
 ## 截图
 ![](https://github.com/loveship00/Stock/blob/master/resource/imgs/snap.PNG?raw=true)
 ## 说明
